@@ -1,0 +1,44 @@
+body{
+    background-image: url("https://flipdish.imgix.net/U6IGmkg0igjJfeTFCASgrbLVA.jpg?w=1080&h=720");
+    background-repeat: no-repeat;
+    background-position:initial;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+ul{
+    
+    float: right;
+    
+}
+
+.logo {
+    width: 80%;
+    height: 30%;
+}
+
+ul li{
+    list-style: none;
+    color: white;
+    display:inline-block;
+    word-spacing: 20px;
+
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+    font-weight: bold;
+
+}
+
+.logo-container {
+    float: left;
+}
+
+
+p{
+    color:midnightblue;
+    background-color:lightgray;
+}
